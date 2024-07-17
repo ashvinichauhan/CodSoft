@@ -1,0 +1,16 @@
+🔢 Calcify By Ashvini Chauhan➕➖➗✖️
+
+➕Calcify is a modern and visually appealing web-based calculator application designed to provide a
+seamless and intuitive user experience. With a sleek user interface and smooth animations, 
+Calcify combines functionality with aesthetics to make basic arithmetic operations enjoyable and efficient.➕
+
+Features
+➡️ User-Friendly Interface: Clean and intuitive design with clearly labeled buttons for ease of use.
+➡️ Responsive Design: Fully responsive, ensuring optimal performance and appearance on any device, whether it's a desktop, tablet, or smartphone.
+➡️ Themed Color Scheme: Stylish color scheme featuring shades of grey and blue for a modern look and feel.
+➡️ Robust Functionality: Supports basic arithmetic operations including addition, subtraction, multiplication, and division.
+
+Technologies Used
+➡️ HTML5: The structural foundation of the web app.
+➡️ CSS3: Custom styles and animations for a visually engaging user interface.
+➡️ JavaScript: Core functionality and interactive features of the calculator.
